@@ -45,7 +45,7 @@ body{
 
 }
 
-.content > input:focus{
+.content > input:hover{
     border: 2px white dotted;
     scale: 1.06;
     transition: all .2s ease-in-out;
